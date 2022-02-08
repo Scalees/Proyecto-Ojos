@@ -1,7 +1,6 @@
 #!/bin/bash
 #Ojos
 #Proyecto creado por mi
-
 trap 'printf "\n";stop' 2
 
 banner() {
